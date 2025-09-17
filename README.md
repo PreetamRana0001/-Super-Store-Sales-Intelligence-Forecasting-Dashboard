@@ -60,11 +60,19 @@ This dashboard **turns raw sales data into actionable insights**, helping manage
 
 ---
 
-## 📁 GitHub Repository
-🔗 [Add your GitHub repo link here]  
 
-**Screenshots / Dashboard Images:**  
-*(Add images here using Markdown syntax)*  
-```markdown
+**Dashboard Images 1:**  
 
 ![Super Store Sales Dashboard](https://github.com/PreetamRana0001/-Super-Store-Sales-Intelligence-Forecasting-Dashboard/blob/main/%7B578F07AB-A001-406F-93F9-E6D6FBCF8B9F%7D.png?raw=true)
+
+**Dashboard Images 2:** 
+
+![Super Store Sales Dashboard](https://github.com/PreetamRana0001/-Super-Store-Sales-Intelligence-Forecasting-Dashboard/blob/main/%7B873D6612-4C02-4A29-9E96-E5F55589A748%7D.png?raw=true)
+
+**Dashboard Images 3:**
+
+![Super Store Sales Dashboard](https://github.com/PreetamRana0001/-Super-Store-Sales-Intelligence-Forecasting-Dashboard/blob/main/%7B24D0DEAD-6A13-43C6-95A0-1E1D2962305D%7D.png?raw=true)
+
+**Dashboard Images 4:** 
+
+![Super Store Sales Dashboard](https://github.com/PreetamRana0001/-Super-Store-Sales-Intelligence-Forecasting-Dashboard/blob/main/%7B8C97D6F5-7CC4-4CDF-82AE-2F135931A3E8%7D.png?raw=true)
