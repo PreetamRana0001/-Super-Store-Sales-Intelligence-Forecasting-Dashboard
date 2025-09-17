@@ -66,5 +66,5 @@ This dashboard **turns raw sales data into actionable insights**, helping manage
 **Screenshots / Dashboard Images:**  
 *(Add images here using Markdown syntax)*  
 ```markdown
-![Dashboard Screenshot](./images/dashboard1.png)
-![Dashboard Screenshot](./images/dashboard2.png)
+
+![Super Store Sales Dashboard](https://github.com/PreetamRana0001/-Super-Store-Sales-Intelligence-Forecasting-Dashboard/blob/main/%7B578F07AB-A001-406F-93F9-E6D6FBCF8B9F%7D.png?raw=true)
